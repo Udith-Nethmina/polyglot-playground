@@ -20,7 +20,6 @@ This project follows a standard layout to separate source code from documentatio
 ```text
 📦 hello-world
  ┣ 📂 src          ➔ Contains the actual Python scripts (e.g., main.py)
- ┣ 📂 assets       ➔ Console screenshots, output previews, or diagrams
  ┗ 📜 README.md    ➔ You are here!
 
 ```
