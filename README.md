@@ -103,10 +103,10 @@ graph TB
 
 | Language / Tech | Status | Projects Directory | Setup Guide |
 | --- | --- | --- | --- |
-| <img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20"/> **Java** | 🟢 Active | [`/java`](https://github.com/Udith-Nethmina/polyglot-playground/java) | [Setup](https://github.com/Udith-Nethmina/polyglot-playground/java/README.md) |
-| <img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="20"/> **Next.js** | 🟢 Active | [`/nextjs`](https://github.com/Udith-Nethmina/polyglot-playground/nextjs) | [Setup](https://github.com/Udith-Nethmina/polyglot-playground/next.js/README.md) |
-| <img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="20"/> **C++** | 🟢 Active | [`/cpp`](https://github.com/Udith-Nethmina/polyglot-playground/cpp) | [Setup](https://github.com/Udith-Nethmina/polyglot-playground/cpp/README.md) |
-| <img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> **Python** | 🟡 Exploring | [`/python`](https://github.com/Udith-Nethmina/polyglot-playground/python) | [Setup](https://github.com/Udith-Nethmina/polyglot-playground/python/README.md) |
+| <img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20"/> **Java** | 🟢 Active | [`/java`](https://github.com/Udith-Nethmina/polyglot-playground/tree/main/java) | [Setup](https://github.com/Udith-Nethmina/polyglot-playground/tree/main/java/README.md) |
+| <img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="20"/> **Next.js** | 🟢 Active | [`/nextjs`](https://github.com/Udith-Nethmina/polyglot-playground/tree/main/next.js) | [Setup](https://github.com/Udith-Nethmina/polyglot-playground/tree/main/next.js/README.md) |
+| <img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="20"/> **C++** | 🟢 Active | [`/cpp`](https://github.com/Udith-Nethmina/polyglot-playground/tree/main/cpp) | [Setup](https://github.com/Udith-Nethmina/polyglot-playground/tree/main/cpp/README.md) |
+| <img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> **Python** | 🟡 Exploring | [`/python`](https://github.com/Udith-Nethmina/polyglot-playground/tree/main/python) | [Setup](https://github.com/Udith-Nethmina/polyglot-playground/tree/main/python/README.md) |
 
 ---
 
