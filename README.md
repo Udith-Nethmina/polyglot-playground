@@ -18,7 +18,7 @@ Polyglot Playground is a consolidated engineering environment for exploring, bui
 
 ```bash
 # Clone the entire workspace
-git clone [https://github.com/Udith-Nethmina/polyglot-playground.git](https://github.com/Udith-Nethmina/polyglot-playground.git)
+git clone https://github.com/Udith-Nethmina/polyglot-playground.git
 cd polyglot-playground
 
 # Navigate to your domain of interest
@@ -103,10 +103,10 @@ graph TB
 
 | Language / Tech | Status | Projects Directory | Setup Guide |
 | --- | --- | --- | --- |
-| <img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20"/> **Java** | 🟢 Active | [`/java`](https://www.google.com/search?q=./java) | [Setup](https://www.google.com/search?q=./java/README.md) |
-| <img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="20"/> **Next.js** | 🟢 Active | [`/nextjs`](https://www.google.com/search?q=./nextjs) | [Setup](https://www.google.com/search?q=./nextjs/README.md) |
-| <img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="20"/> **C++** | 🟢 Active | [`/cpp`](https://www.google.com/search?q=./cpp) | [Setup](https://www.google.com/search?q=./cpp/README.md) |
-| <img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> **Python** | 🟡 Exploring | [`/python`](https://www.google.com/search?q=./python) | [Setup](https://www.google.com/search?q=./python/README.md) |
+| <img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20"/> **Java** | 🟢 Active | [`/java`](https://github.com/Udith-Nethmina/polyglot-playground/java) | [Setup](https://github.com/Udith-Nethmina/polyglot-playground/java/README.md) |
+| <img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="20"/> **Next.js** | 🟢 Active | [`/nextjs`](https://github.com/Udith-Nethmina/polyglot-playground/nextjs) | [Setup](https://github.com/Udith-Nethmina/polyglot-playground/next.js/README.md) |
+| <img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="20"/> **C++** | 🟢 Active | [`/cpp`](https://github.com/Udith-Nethmina/polyglot-playground/cpp) | [Setup](https://github.com/Udith-Nethmina/polyglot-playground/cpp/README.md) |
+| <img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> **Python** | 🟡 Exploring | [`/python`](https://github.com/Udith-Nethmina/polyglot-playground/python) | [Setup](https://github.com/Udith-Nethmina/polyglot-playground/python/README.md) |
 
 ---
 
